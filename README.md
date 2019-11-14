@@ -10,7 +10,8 @@ HuanYuanHe 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://www.huanyuan.info:8080/hello-solo)
+* [户外](https://www.huanyuan.info/articles/2019/11/14/1573728860817.html)
+* [世界，你好！](https://www.huanyuan.info/hello-solo)
 
 
 
