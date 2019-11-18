@@ -10,8 +10,8 @@ HuanYuanHe 的个人博客
 
 ### 最新
 
+* [为什么要使用线程池；常见的创建线程池的4种方式](https://www.huanyuan.info/articles/2019/11/18/1574040269147.html)
 * [Spring 知识点总结《一》](https://www.huanyuan.info/articles/2019/11/15/1573805576548.html)
-* [世界，你好！](https://www.huanyuan.info/hello-solo)
 
 
 
