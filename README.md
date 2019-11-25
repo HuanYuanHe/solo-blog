@@ -10,6 +10,8 @@ HuanYuanHe 的个人博客
 
 ### 最新
 
+* [Dubbo-admin配置及安装](https://www.huanyuan.info/articles/2019/11/25/1574645044356.html)
+* [dubbo 工作原理](https://www.huanyuan.info/articles/2019/11/24/1574577335535.html)
 * [我在 GitHub 上的开源项目](https://www.huanyuan.info/my-github-repos)
 * [为什么要使用线程池；常见的创建线程池的4种方式](https://www.huanyuan.info/articles/2019/11/18/1574040269147.html)
 * [Spring 知识点总结《一》](https://www.huanyuan.info/articles/2019/11/15/1573805576548.html)
